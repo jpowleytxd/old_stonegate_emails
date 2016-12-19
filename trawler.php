@@ -57,111 +57,27 @@ $removalWhite = '<img src="http://img2.email2inbox.co.uk/2016/stonegate/template
 $removalBlack = '<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-black.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">';
 
 $drinkAwares   = array(
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>
-<tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>
-</td>
-</tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>',
-'<tr>
-<td height="10" bgcolor="#0d2d1a"></td>
-</tr>
-<tr>
-<td valign="middle" align="center" bgcolor="#0d2d1a">
-<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>
-</td>
-</tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>
-</td>
-</tr>',
-'<tr>
-<td height="10" bgcolor="#434343">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="center" bgcolor="#434343">
-<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>
-</td>
-</tr>',
-'<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>',
-'<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>
-</td>
-</tr>',
-'<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>',
-'<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>'
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" bgcolor="#0d2d1a"></td></tr><tr><td valign="middle" align="center" bgcolor="#0d2d1a"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" bgcolor="#434343"></td></tr><tr><td valign="middle" align="center" bgcolor="#434343"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr><tr><td height="10"></td></tr>',
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr><tr><td height="10"></td></tr>',
+'<tr><td height="10" valign="top"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline:none;display:inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" valign="top"></td></tr><tr><td valign="middle" align="center"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img class="img-max-ninety" style="outline: none; display: inline-block;" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" alt="Drink Aware" width="109" border="0" /></a></td></tr>',
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" bgcolor="#332558"></td></tr><tr><td align="center" valign="top" bgcolor="#332558"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img width="109" class="img-max-ninety" style="outline: none; display: inline-block;" alt="Drink Aware" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" border="0"></a></td></tr>',
+'<tr><td height="10"></td></tr><tr><td align="center" valign="middle"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img width="109" class="img-max-ninety" style="outline: none; display: inline-block;" alt="Drink Aware" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" border="0"></a></td></tr>',
+'<tr><td height="10" bgcolor="#009985"></td></tr><tr><td valign="middle" align="center" bgcolor="#009985"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td valign="middle" align="center" bgcolor="#d21242"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" valign="top"></td></tr><tr><td valign="middle" align="center"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img class="img-max-ninety" style="outline: none; display: inline-block;" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-black.png" alt="Drink Aware" width="109" border="0" /></a></td></tr>',
+'<tr><td height="10" bgcolor="#332558"></td></tr><tr><td align="center" valign="top" bgcolor="#332558"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" bgcolor="#000000" valign="0"></td></tr><tr><td align="center" valign="top" bgcolor="#000000"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10"></td></tr><tr><td valign="middle" align="center"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline:none;display:inline-block;" class="img-max-ninety"></a></td></tr>',
+'<tr><td height="10" bgcolor="#000000"></td></tr><tr><td align="center" valign="top" bgcolor="#000000"><a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a></td></tr>'
 );
 $rowCount = 0;
 $cellCount = 0;
@@ -180,6 +96,8 @@ foreach($rows as $key => $row){
   foreach($row as $i => $cell){
     if($i === 1){
       $cellCount++;
+      // if($rowCount === 1){print_r($statementStart . htmlentities(addslashes($cell)) . $statementMiddle . $row[0] . $statementEnd); break;}
+      $cell = preg_replace('~>\s+<~', '><', $cell);
 
       $count = 0;
       $totalDA = count($drinkAwares);
@@ -195,44 +113,8 @@ foreach($rows as $key => $row){
         }
         if($count === $totalDA){
           $missCount++;
-          //array_push($errorRows, $row);
-          $images = array('<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>',
-          '<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-black.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety"></a>',
-          '<a style="border: none;" href="https://www.drinkaware.co.uk/"><img width="109" class="img-max-ninety" style="outline: none; display: inline-block;" alt="Drink Aware" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" border="0"></a>',
-          '<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline: none; display: inline-block;" class="img-max-ninety">
-</a>',
-'<tr>
-<td valign="middle" align="center"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img class="img-max-ninety" style="outline: none; display: inline-block;" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" alt="Drink Aware" width="109" border="0" /></a></td>
-</tr>',
-'<tr>
-<td valign="middle" align="center">
-<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline:none;display:inline-block;" class="img-max-ninety"></a>
-</td>
-</tr>',
-'<a href="https://www.drinkaware.co.uk/" style="border: none;"><img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline:none;display:inline-block;" class="img-max-ninety"></a>',
-'<a href="https://www.drinkaware.co.uk/" style="border: none;">
-<img src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-white.png" width="109" border="0" alt="Drink Aware" style="outline:none;display:inline-block;" class="img-max-ninety">
-</a>',
-'<tr>
-<td valign="middle" align="center"><a style="border: none;" href="https://www.drinkaware.co.uk/"><img class="img-max-ninety" style="outline: none; display: inline-block;" src="http://img2.email2inbox.co.uk/2016/stonegate/templates/da-black.png" alt="Drink Aware" width="109" border="0" /></a></td>
-</tr>');
-
-          $counter = 0;
-          foreach($images as $k => $img){
-            $counter++;
-            $pos = strpos($cell, $img);
-            if(($pos !== null) && ($pos !== false)){
-              $cell = str_replace($img, '', $cell);
-              print_r($statementStart . htmlentities(addslashes($cell)) . $statementMiddle . $row[0] . $statementEnd);
-              $catchCount++;
-              $missCount--;
-              break;
-            }
-            if($counter == count($images)){
-              array_push($errorRows, $cell);
-            }
-          }
+          //array_push($errorRows, $cell);
+          print_r($statementStart . htmlentities(addslashes($cell)) . $statementMiddle . $row[0] . $statementEnd);
         }
       }
     }
@@ -240,7 +122,7 @@ foreach($rows as $key => $row){
 }
 
 foreach($errorRows as $key => $row){
-  print_r($row);
+  //print_r($row);
 }
 
 // if(($catchCount !== $rowCount) && ($missCount !== 0)){
